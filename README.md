@@ -1,7 +1,7 @@
 # 风铃导航
-## 风铃导航：收集各类实用网站，聚集最新影视。实用网站涵盖影视、音乐、ROM、Linux等各类资源
+## 风铃导航：收集各类实用网站
 <br>
-注意：本导航网站基于开源项目https://github.com/HuanGeNet/HGDH 修改
+注意：本导航网站基于开源项目https://github.com/HuanGeNet/HGDH 
 <br>
 演示地址：
 <br>
